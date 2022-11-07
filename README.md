@@ -40,8 +40,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 ### Execution
 shell should work like this in interactive mode:
 ```
-$ ./console.py
-(hbnb) help
 Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
